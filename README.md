@@ -41,3 +41,5 @@ This is a static web application, so it requires no backend setup.
 *   HTML5
 *   CSS3
 *   JavaScript (ES6+)
+
+# PS: This game was developed during SNA class 😂
